@@ -1,0 +1,47 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "В памяти о прошлом земли",
+      "author": "Лю Цысинь",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Сияние",
+      "author": "Стивен Кинг",
+      "pub_date": "2018-09-10"
+    }
+  }
+]
