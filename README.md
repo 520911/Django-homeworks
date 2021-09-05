@@ -2,7 +2,7 @@
 
 ## Блок 1. Обработка запросов. Работа с шаблонами
 
-1.1. [Знакомство с Django. Подготовка и запуск проекта.](./1.1-first-project)
+1.1. [Знакомство с Django. Подготовка и запуск проекта.](https://github.com/520911/Django-homeworks/tree/master/first_project)
 
 1.2. [Обработка запросов и шаблоны](./1.2-requests-templates)
 
